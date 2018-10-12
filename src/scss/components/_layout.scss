@@ -163,6 +163,10 @@ $dark: #444;
     position:absolute;
 }
 
+ .social li{
+   color: red;
+ }
+
   /* Desktop Styles */
 
 @media screen and (min-width: 800px) {
@@ -188,16 +192,6 @@ $dark: #444;
 	}
 	aside nav {
 		display: block !important;
-  }
-  
-  aside li.social{
-    color: $dark;
-    font-size: 0.9rem;
-    padding-top: 1rem;
-  }
-
-  aside a.social {
-    color: blue;
   }
 
 	.toggle-nav {
