@@ -52,7 +52,7 @@ $dark: #444;
   .main-content {
     max-width: 960px;
     background: white;
-    margin: -50px auto;
+    margin: 0 auto;
   }
 
   .flex-container {
@@ -134,7 +134,7 @@ $dark: #444;
   } 
 
   .footer {
-    padding: 0.5rem;
+    padding: 0.5rem 0;
     font-size: x-small;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
