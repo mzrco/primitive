@@ -118,8 +118,7 @@ $dark: #444;
   aside li a:hover,
   aside li a:active,
   aside li a:focus {
-	background: $accent;
-	color: $dark;
+	color: $white;
   text-decoration: none;
   }
 
@@ -135,7 +134,7 @@ $dark: #444;
   } 
 
   .footer {
-    padding: 2rem 0;
+    padding: 0.5rem;
     font-size: x-small;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
